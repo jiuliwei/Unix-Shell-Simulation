@@ -2,13 +2,12 @@
 
 ## Compiling:
 You should load the **gcc 9.2.0** with the following command:
+
 `module load gcc-9.2`
 
 ## How to run it:
-```
-make
-./nyush
-```
+
+Run `make` to generate an executable file named **nyush** in the current working directory. Then run `./nyush`.
 
 ## The shell is essentially a command-line interpreter. It works as follows:
 - It prompts you to enter a command.
